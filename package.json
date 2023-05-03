@@ -27,6 +27,7 @@
   ],
   "types": "dist/index.d.ts",
   "dependencies": {
+    "rollup-plugin-postcss": "^4.0.2",
     "tslib": "^2.5.0"
   },
   "publishConfig": {
