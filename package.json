@@ -1,5 +1,5 @@
 {
-  "name": "aroma-base",
+  "name": "@mehdiasadli/aroma-base",
   "version": "0.0.1",
   "description": "An unstyled Component UI library for React by Aroma",
   "scripts": {
@@ -28,5 +28,8 @@
   "types": "dist/index.d.ts",
   "dependencies": {
     "tslib": "^2.5.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/mehdiasadli"
   }
 }
